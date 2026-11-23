@@ -2,8 +2,8 @@
 class Prune < Formula
   desc "Find and clean reclaimable disk space on macOS from the terminal"
   homepage "https://prune.gh0styx.com"
-  url "https://github.com/gh0styx/prune/archive/refs/tags/cli-v0.1.1.tar.gz"
-  sha256 "2aaea515f5f04e02486d1e354e99e0b4d955f4012d8e51becabc8cd2d7021eb3"
+  url "https://github.com/gh0styx/prune/archive/refs/tags/cli-v0.1.2.tar.gz"
+  sha256 "a84220c42789677fe2c794b865d0f3ce19b638a84b89c13f76bffa4670d16a91"
   license "GPL-3.0-only"
 
   depends_on xcode: ["16.0", :build]
